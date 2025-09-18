@@ -1,0 +1,12 @@
+[2025-09-18 23:39:50,898] 13 root - INFO - Inititate data ingesstion
+[2025-09-18 23:39:59,565] 62 root - INFO - Performed train test split on the dataframe
+[2025-09-18 23:39:59,565] 63 root - INFO - Exited split_data_as_train_test method
+[2025-09-18 23:39:59,565] 67 root - INFO - Exporting train and test file path
+[2025-09-18 23:39:59,684] 74 root - INFO - Exported train and test file path
+[2025-09-18 23:39:59,684] 16 root - INFO - initiation completed
+[2025-09-18 23:39:59,684] 17 root - INFO - DataIngestionArtifact(trained_file_path='Artifacts\\09_18_2025_23_39_50\\data_ingestion\\Ingested\\train.csv', test_file_path='Artifacts\\09_18_2025_23_39_50\\data_ingestion\\Ingested\\test.csv')
+[2025-09-18 23:39:59,689] 21 root - INFO - Initiate data validation
+[2025-09-18 23:39:59,752] 31 root - INFO - required number of columns = 2
+[2025-09-18 23:39:59,752] 32 root - INFO - Dataframe has 31 columns
+[2025-09-18 23:39:59,753] 31 root - INFO - required number of columns = 2
+[2025-09-18 23:39:59,753] 32 root - INFO - Dataframe has 31 columns

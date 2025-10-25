@@ -1,0 +1,18 @@
+[2025-10-25 21:56:43,213] 14 root - INFO - Inititate data ingesstion
+[2025-10-25 21:56:50,802] 62 root - INFO - Performed train test split on the dataframe
+[2025-10-25 21:56:50,802] 63 root - INFO - Exited split_data_as_train_test method
+[2025-10-25 21:56:50,802] 67 root - INFO - Exporting train and test file path
+[2025-10-25 21:56:50,928] 74 root - INFO - Exported train and test file path
+[2025-10-25 21:56:50,928] 17 root - INFO - initiation completed
+[2025-10-25 21:56:50,928] 18 root - INFO - DataIngestionArtifact(trained_file_path='Artifacts\\10_25_2025_21_56_42\\data_ingestion\\Ingested\\train.csv', test_file_path='Artifacts\\10_25_2025_21_56_42\\data_ingestion\\Ingested\\test.csv')
+[2025-10-25 21:56:50,928] 22 root - INFO - Initiate data validation
+[2025-10-25 21:56:51,022] 31 root - INFO - required number of columns = 2
+[2025-10-25 21:56:51,022] 32 root - INFO - Dataframe has 31 columns
+[2025-10-25 21:56:51,022] 31 root - INFO - required number of columns = 2
+[2025-10-25 21:56:51,022] 32 root - INFO - Dataframe has 31 columns
+[2025-10-25 21:56:51,245] 24 root - INFO - Data validation completed
+[2025-10-25 21:56:51,245] 27 root - INFO - data transformation started
+[2025-10-25 21:56:51,245] 52 root - INFO - Entered Data transformation
+[2025-10-25 21:56:51,245] 54 root - INFO - starting transform
+[2025-10-25 21:56:51,285] 40 root - INFO - Entered get_data_transformer_object method of transformation class
+[2025-10-25 21:56:51,285] 44 root - INFO - initiated KNN mputer with {'missing_values': nan, 'n_neighbors': 3, 'weights': 'uniform'}

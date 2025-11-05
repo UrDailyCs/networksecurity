@@ -3,7 +3,6 @@ import sys
 import numpy as np
 import pandas as pd
 
-
 """
 DEFINING common constant variable for training pipeline 
 """
@@ -14,9 +13,10 @@ FILE_NAME: str = "phishingData.csv"
 
 TRAIN_FILE_NAME = "train.csv"
 TEST_FILE_NAME = "test.csv"
-
 SCHEMA_FILE_PATH = os.path.join("data_schema", "schema.yaml")
 
+SAVED_MODEL_DIR =os.path.join("saved_models")
+MODEL_FILE_NAME = "model.pkl"
 
 """
 DATA INGESTION RELATED CONSTANT START WITH DATA_INGESTION VAR NAME

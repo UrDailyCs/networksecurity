@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Belajar/UDEMY/Krish_Naik/DL_project/mlruns/0/4e39643352104841b06a285b4add4f68/artifacts
+end_time: 1767801091883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e39643352104841b06a285b4add4f68
+run_name: fun-whale-203
+run_uuid: 4e39643352104841b06a285b4add4f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767801086873
+status: 3
+tags: []
+user_id: Nicholas

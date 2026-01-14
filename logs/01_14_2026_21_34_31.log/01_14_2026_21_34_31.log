@@ -1,0 +1,2 @@
+[2026-01-14 21:35:01,841] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-01-14 21:35:01,846] 107 dagshub - INFO - Accessing as UrDailyCs

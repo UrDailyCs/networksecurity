@@ -1,0 +1,14 @@
+[2026-02-19 23:20:52,149] 74 dagshub.auth.tokens - INFO - Removed expired tokens from the token cache
+[2026-02-19 23:20:57,235] 1025 httpx - INFO - HTTP Request: POST https://dagshub.com/login/oauth/middleman "HTTP/1.1 200 OK"
+[2026-02-19 23:20:58,208] 1025 httpx - INFO - HTTP Request: POST https://dagshub.com/login/oauth/access_token "HTTP/1.1 200 OK"
+[2026-02-19 23:20:59,153] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-19 23:20:59,153] 107 dagshub - INFO - Accessing as UrDailyCs
+[2026-02-19 23:21:00,104] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/UrDailyCs/networksecurity "HTTP/1.1 200 OK"
+[2026-02-19 23:21:01,012] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-19 23:21:01,023] 107 dagshub - INFO - Initialized MLflow to track repo "UrDailyCs/networksecurity"
+[2026-02-19 23:21:01,023] 107 dagshub - INFO - Repository UrDailyCs/networksecurity initialized!
+[2026-02-19 23:21:01,321] 107 fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+

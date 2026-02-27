@@ -1,0 +1,6 @@
+[2026-02-09 21:07:29,384] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-09 21:07:29,390] 107 dagshub - INFO - Accessing as UrDailyCs
+[2026-02-09 21:07:30,160] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/UrDailyCs/networksecurity "HTTP/1.1 200 OK"
+[2026-02-09 21:07:30,906] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-09 21:07:30,909] 107 dagshub - INFO - Initialized MLflow to track repo "UrDailyCs/networksecurity"
+[2026-02-09 21:07:30,909] 107 dagshub - INFO - Repository UrDailyCs/networksecurity initialized!
